@@ -1,6 +1,4 @@
-## Listes des choses à travailler
-
-1
+## Listes des choses à travailler 
 
 ### 1-Info 
   * SQL
