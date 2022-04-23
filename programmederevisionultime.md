@@ -32,6 +32,6 @@
   
   
 ### 6-Français 
-  * Compléter la [fiche de citations](https://www.youtube.com/watch?v=ytrB-hUWD2s) et la travailler chaque jour
+  * Compléter la [fiche de citations](https://github.com/flemarths/fran-ais/blob/master/citations.md) et la travailler chaque jour
   
   
