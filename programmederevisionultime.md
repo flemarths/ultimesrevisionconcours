@@ -4,8 +4,8 @@
   * SQL
   * complexité des algos
   
-### 2- Maths
-  * intégration
+### 2- [Maths](http://mp1.albert1.net/private/Cadres.html)
+  * [intégration](http://mp1.albert1.net/private/maths/cours/12integrationclpt.pdf)
   * Ev + structure
   * DET + reduction (avec et sans calculette)
   * SF et SE ( DL évidemment )
