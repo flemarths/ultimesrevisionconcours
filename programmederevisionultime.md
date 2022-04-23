@@ -18,7 +18,7 @@
   * Thermodynamique
   * Thermochimie et electrochimie
   * Mécanique
-  * Optique
+  * [Optique](https://mail.google.com/mail/u/0/#search/william/FMfcgzGmvpCkjXdmCGRDSJvrslVLrZTp)
   
 ### 4-SI
   * Tout xD (mais c'est pas si long en vrai)
