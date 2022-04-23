@@ -1,8 +1,9 @@
 ## Liste des choses à travailler 
 
-### 1-Info 
+### 1- [Info](https://lgt-international-06902-moodle.atrium-sud.fr/course/view.php?id=94)
   * SQL
   * complexité des algos
+  * tri ect 
   
 ### 2- [Maths](http://mp1.albert1.net/private/Cadres.html)
   * [intégration](http://mp1.albert1.net/private/maths/cours/12integrationclpt.pdf)
