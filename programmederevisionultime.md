@@ -11,7 +11,7 @@
   * SF et SE ( DL évidemment )
   * EQ diff
   * EUCL et PREHILB
-  * Probas suites series ect 
+  * Probas suites series sommable ect 
   
 ### 3-Physique
   * Electromagnétisme (statique, Maxwell et ondes)
