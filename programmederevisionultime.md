@@ -24,7 +24,12 @@
   * Tout xD (mais c'est pas si long en vrai)
   
 ### 5-Anglais
-  * lire un peu la presse ? ptet un peu de voca
+  * lire un peu la presse ? 
+      * [The guardian](https://www.theguardian.com/international)
+	  * [The sun](https://www.thesun.co.uk/)
+	  * [The Times](https://www.thetimes.co.uk/)
+  * un peu de voca 
+  
   
 ### 6-Français 
   * Compléter la fiche de citation et la travailler chaque jour
