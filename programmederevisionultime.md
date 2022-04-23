@@ -32,6 +32,6 @@
   
   
 ### 6-Français 
-  * Compléter la fiche de citation et la travailler chaque jour
-  * Se renseigner un peu sur les oeuvres
+  * Compléter la [fiche de citations](https://www.youtube.com/watch?v=ytrB-hUWD2s) et la travailler chaque jour
+  
   
